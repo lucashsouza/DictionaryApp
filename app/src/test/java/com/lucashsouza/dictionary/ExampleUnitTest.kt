@@ -1,4 +1,4 @@
-package com.plcoding.dictionary
+package com.lucashsouza.dictionary
 
 import org.junit.Test
 
